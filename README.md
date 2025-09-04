@@ -18,15 +18,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- 🥈 **2nd place** at university and **39th nationwide** in **ECPC 2024** among 250+ teams.  
-- 🎖️ Ranked as **Specialist on Codeforces**, top 400 in Egypt among 12k+ participants.  
-- 🥇 **Gold Medalist** in the International Youth Math Challenge (IYMC) among 10,000+ participants.  
-- 🎓 Awarded the **BUE Full Scholarship** (only 2 nationwide), based on leadership and academic excellence.  
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
