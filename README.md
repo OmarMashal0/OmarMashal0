@@ -1,6 +1,6 @@
 # Hi, I'm Omar Mashal 👋  
 
-🎓 Computer Science student at The British University in Egypt, ranked **1st in class**.   
+🎓 Computer Science student at The British University in Egypt, ranked **top in class**.   
 💻 Aspiring Software Engineer with strong foundations in algorithms, systems design, and full-stack development.  
 🚀 Passionate about solving complex problems, contributing to open-source, and building scalable applications.  
 
