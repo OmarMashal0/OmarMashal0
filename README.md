@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-mashal-327744357/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/omarmashal/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:omar.a.mashal11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/OmarMashal0"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
